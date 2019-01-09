@@ -1,7 +1,7 @@
 Upload Credentials
 ------------------
 
-This is page where you can upload your credentials to our network on blockchain.
+This is page where you can upload your credentials to our EKO-Pops Node.
 
 .. figure:: images/submit_credentials.png
    :alt: Credentials Submit
@@ -11,7 +11,7 @@ Let's add some data and upload the credentials
 .. figure:: images/submit_credentials_demo.png
    :alt: Credentials Submit
 
-Here you can see the demo of how the transaction hash is generated for our transaction on the network. You can retrive the transaction hash and check the status on our node or the status of the transaction will be shown during the transaction as you'll see below.
+Here you can see the demo of how the transaction hash is generated for our transaction on the network. You can retrive the transaction hash and check the status on our node or the status of the transaction will be shown at the end of the transaction as you'll see below.
 
 .. figure:: images/submit_credentials_demo.gif
    :alt: Credentials Submit

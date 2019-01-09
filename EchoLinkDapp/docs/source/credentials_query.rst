@@ -1,7 +1,7 @@
 Query Credentials
 -----------------
 
-In this section of our application you can query the credentials you've uploaded on our network to the blockchain. The image below shows the screenshot of the page.
+In this section of our application you can query the credentials you've uploaded on our EKO-Pops Node. The image below shows the screenshot of the page.
 
 .. figure:: images/query_credentials.png
    :alt: Credentials Query
