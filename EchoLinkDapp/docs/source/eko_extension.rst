@@ -1,7 +1,12 @@
-How to use extension
-====================
+EKO Extension
+=============
 
-To use ekolink extenion, add extension to your chrome browser and follow the instruction below.
+EkoLink Extension takes the information of a webpage. It provides the image, ssl info and content of full web page and save these information to ekolink backend. You can find extension on chrome store.
+
+How to use extension
+--------------------
+
+To use ekolink extension, add extension to your chrome browser and follow the instruction below.
 
 
 Navigate on a web page and activate the extension by clicking on extension icon.
@@ -42,6 +47,6 @@ After clicking on submit button will be disable and show status saving.
 .. figure:: images/saving-process.png
    :alt: saving process
 
-You will get Success msg, after your credential successfully get submited.
+You will get Success message, after your credential successfully get submitted.
 
 
