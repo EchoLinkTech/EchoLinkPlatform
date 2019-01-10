@@ -1,5 +1,5 @@
 Steps to set up the EKO network and dynamically manage network authorities:
------------------------
+---------------------------------------------------------------------------
 
 1.  Use the validator set contracts available at https://github.com/parity-contracts/kovan-validator-set
 

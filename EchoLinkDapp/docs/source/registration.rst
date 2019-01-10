@@ -1,6 +1,6 @@
 Registration and Authentication
 -------------------------------
-When you browse to the link you will be shown a login page like the one below.
+When you browse to our `platform <http://test.ekolink.info>`_ you will be shown a login page like the one below.
 
 .. figure:: images/login.png
    :alt: Login page

@@ -1,7 +1,7 @@
-EchoLink DApp
+EkoLink DApp
 --------------
 
-EchoLink is a blockchain based system that provides verified education, skill, and work experience information. Taking advantage of blockchain technology’s immutability and time stamp functionality, EchoLink provides users with trusted information regarding a job candidate’s education, skill, and work experience.
+EchoLink is a blockchain based system that provides verified education, skill, and work experience information. Taking advantage of blockchain technology’s immutability and time stamp functionality, EchoLink provides users with trusted information regarding a job candidate’s education, skill, and work experience. EkoLink is built on the EKO Blockchain Platform.
 
 .. toctree::
    :maxdepth: 3
