@@ -13,14 +13,6 @@ The admin will now be notified with the transaction details and after verifying 
 
   + Login to the Token Bridge service
 
-    - Credentials:
-
-    .. sourcecode:: bash
-
-        email: admin@eko.org
-        password: 123456
-
-
   + Verify the transactions listed under `Submitted` section by clicking ``Verify All Transaction`` or verify them individually.
 
   + If the transaction is valid then, it will appear under the ``Verified`` section. Now, process the transactions by clicking `Process All Transaction` or process them individually.
