@@ -1,0 +1,14 @@
+.. figure:: images/EKOl_Graphicogo.png
+   :alt: echolink logo
+
+Welcome to Ekolink Extension's documentation!
+=============================================
+
+EkoLink Extension takes a screen capture of a full web page, ssl info and web content, and save these information to ekolink backend.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   how_to_use.rst
+
