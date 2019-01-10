@@ -20,13 +20,13 @@ This will install all the dependencies and set up build the docker image for the
 6. Different modes:
 
   - Start a new network
-  
+
     1. Run
 
     .. sourcecode:: bash
-  
+
         make initialize-blockchain
-  
+
     2. Type ``1`` and enter to select ``Start a new network`` from the options provided.
 
     3. Run
@@ -34,7 +34,7 @@ This will install all the dependencies and set up build the docker image for the
     .. sourcecode:: bash
 
         make dirty-up
-  
+
   This will start the node with a new network configurations.
 
   - Join an existing network as a miner node
@@ -62,7 +62,7 @@ This will install all the dependencies and set up build the docker image for the
     1. Run
 
     .. sourcecode:: bash
-    
+
         make initialize-blockchain
 
     2. Type ``3`` and enter to select ``Join an existing network as a viewer node`` from the options provided.
@@ -77,4 +77,4 @@ This will install all the dependencies and set up build the docker image for the
 
   This will start the node as a viewer node and sync with the existing nodes in the network.
 
-7. Now, follow the steps as mentioned from points ``31`` to ``41``.
+7. Now, follow the steps as mentioned from points ``31`` to ``41`` from the previous section.

@@ -1,9 +1,7 @@
-Start the network with:
+Steps to set up the EKO network and dynamically manage network authorities:
 -----------------------
 
 1.  Use the validator set contracts available at https://github.com/parity-contracts/kovan-validator-set
-
-
 
 2.  We just need these contracts:
 
@@ -11,7 +9,6 @@ Start the network with:
   + BaseOwnedSet.sol
   + ValidatorSet.sol
   + Owned.sol
-
 
 3. Setup the basic chain genesis saved under genesis.json with all required fields for Authority Round consensus engine
 
@@ -268,7 +265,7 @@ Go to http://remix.ethereum.org/
   - Define a function ``removeCorruptValidator`` to add the functionality to remove a corrupt validator from the network and transfer the locked stake amount to the admin. The final function should be as follows,
 
   .. sourcecode:: bash
-  
+
       function removeCorruptValidator(address _validator)
         external
         onlyOwner
@@ -395,7 +392,7 @@ Go to http://remix.ethereum.org/
     port = 8181
     [websockets]
     port = 8451
-    
+
 29. Connect the nodes, Here we will simply use curl. Obtain 1st node’s enode:
 
 ``curl --data '{"jsonrpc":"2.0","method":"parity_enode","params":[],"id":0}' -H "Content-Type: application/json" -X POST localhost:8545``
@@ -433,7 +430,7 @@ Now the nodes should indicate 1/25 peers in the console, which means they are co
     password = ["node.pwds"]
     [mining]
     engine_signer = "0x8c7cfb7f40b7a6c4d34c7619c6075d0402112811"
-    reseal_on_txs = "none"    
+    reseal_on_txs = "none"
 
 34. Restart the second node
 
