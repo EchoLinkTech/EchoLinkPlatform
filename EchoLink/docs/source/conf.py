@@ -21,7 +21,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = u'EchoLink'
-copyright = u'2018, Harsh Rathi'
+copyright = u'2019, EchoLink Project'
 author = u'Harsh Rathi'
 
 # The short X.Y version
